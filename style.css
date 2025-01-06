@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    
+}
+#contenido{
+    background-color: violet;
+    width: 70%;
+    padding: 1.0rem;
+    margin: auto;
+}
+
+#contenido > div{
+    text-align: center;
+}
+input{
+    display: block;
+    width: 90%;
+    margin: auto;
+}
